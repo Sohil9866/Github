@@ -1,4 +1,4 @@
 # Github
 This is my repo for github practice
 <br>
-Author - Sohil Shrestha
+Author - Sohil Shrestha(Avenier Tech)
